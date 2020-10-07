@@ -1,3 +1,5 @@
+/// even if it takes a night or hundered years
+/// is'nt it lovely all alone heart made of glass my mind of stone
 #include<iostream>
 #include<math.h>
 using namespace std;
